@@ -33,7 +33,7 @@ module.exports = {
   DESABLE_WELCOME_GOODBYE_JIDS : [],
   TIME_ZONE :  "Asia/Colombo",
   WORK_TYPE : "public",
-  WORK_MODE : "onlygroups",
+  WORK_MODE : "allchats",
   WORK_MODE_MESSAGE_SEND : true,
   CAPTION : '',
   STICKER_PACK : 'C4p!T4L',
